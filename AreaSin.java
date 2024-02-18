@@ -2,7 +2,12 @@ class AreaSin extends ConsoleProgram {
 
   /**
   * Description
-  * @author:
+  * @author:Ryan Fellin
+  * Simple program which calculates the area of a triangle using 2 sides and the sin of an angle
+  * SideA - Defines the first side of the triangle
+  * SideB - Defines the second side of the triangle
+  * Angle - Defines the value of the angle in degrees
+  * output - Outputs the area of the triangle
   */
   
   public void run() {
